@@ -1,0 +1,99 @@
+h2{
+    background-color: rgb(188, 206, 247);
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+.Xushkelibsiz{
+    color: rgb(8, 8, 122);
+}
+.Virtual{
+    background-color: yellow;
+}
+.hayvonlarni{
+    color: red;
+}
+.Hayvonlar{
+    color: green;
+    font-size: 20px;
+}
+.h3-1{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.image1{
+    height: 405px;
+}
+.image2{
+    height: 405px;
+}
+.h3-2{
+    background-color: yellow;
+    color: green;
+    text-align: center;  
+}
+iframe{
+    width: 800px;
+    height: 405px;
+    margin-left: 250px;
+     
+}
+.div1{
+    background-color: black;
+    border-radius: 10px;
+}
+textarea{
+   width: 90%;
+   height: 40px;
+}
+.h3-3{
+    color: green;
+}
+.h3-4{
+    color: green;
+}
+button{
+    background-color: rgb(91, 91, 235);
+    width: 19%;
+    height: 30px;
+}
+.h3-5{
+    background-color: yellow;
+    color: green;
+    text-align: center;   
+}
+table{
+    width: 90%;
+    border-collapse: collapse;
+}
+tbody{
+    text-align: center;
+    border: 1px solid white;
+    
+}
+tr{
+    border: 1px solid white; 
+}
+.HayvonH{
+    color: white;
+    background-color: green;
+}
+.Qiziqrlifakt{
+    color: white;
+    background-color: blue;
+}
+.td1{
+    color: white;
+    background-color: red;
+}
+.td2{
+    color: white;
+    background-color: black;
+}
+
+
+
+
+
+
